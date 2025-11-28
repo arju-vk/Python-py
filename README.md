@@ -11,4 +11,18 @@
 
 # Operators in Python are special symbols or keywords that perform operations on variables and values, known as operands. They are fundamental tools for manipulating data, performing calculations, making comparisons, and controlling the flow of a program.
 
-![alt text](image-1.png)
+![alt text](image-1.png)<br>
+
+# Syntax
+
+while condition:
+Code to be executed repeatedly
+as long as the condition is True
+statement_1
+statement_2
+
+... <br><br>
+
+for variable_name in iterable_object:
+Code block to be executed for each item in the iterable
+This code must be indented
