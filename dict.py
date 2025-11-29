@@ -9,7 +9,7 @@ for key in d:
 #     print(value)
 # 
 # # Iterate over key-value pairs
-# for key, value in d.items():
+# for key, value in d.items():  
 #     print(f"{key}: {value}")
 
 
