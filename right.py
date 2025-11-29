@@ -1,8 +1,8 @@
-# n = int(input("NUM :"))
-# for i in range(1,n+1): 
-#     for j in range(1,i+1):
-#         print(j, end="")
-#     print()  
+n = int(input("NUM :"))
+for i in range(1,n+1): 
+    for j in range(1,i+1):
+        print("*", end="")
+    print()  
 
 # n=int(input("num :"))
 # skip=int(input("num:"))
@@ -14,8 +14,8 @@
 #         print()
 #     x+=1
 
-n=int(input("Num :"))
-for i in range(1,n+1):
-    for j in range(1,n+1):
-        print("*",end="")
-    print()
+# n=int(input("Num :"))
+# for i in range(1,n+1):
+#     for j in range(1,n+1):
+#         print("*",end="")
+#     print()
