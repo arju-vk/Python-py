@@ -50,16 +50,15 @@
 # print("sum of the odd numbers :",odd )
 
 
-n=int(input("Number : "))
 lst=[]
 even=0
 odd=0
-i=0
-
-while i<n:
-    x=int(input("NUM : "))
+while 9:
+    x=(input("NUM : "))
+    if x == "exit":
+        break
+    x=int(x)
     lst.append(x)
-    
     if x%2 == 0:
         even+=x
     else:
