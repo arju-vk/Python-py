@@ -12,4 +12,7 @@ di.popitem()
 print(di)
 di.clear()
 print(di)
+print(di.keys)
+print(di.values)
+print(di.get("f"))
 
